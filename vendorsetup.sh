@@ -1,1 +1,1 @@
-add_lunch_combo omni_c103-userdebug
+add_lunch_combo omni_c103-eng
