@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/coolpad/c103
+LOCAL_PATH := device/coolpad/C106
 
 # Architecture
 TARGET_ARCH := arm64
@@ -85,7 +85,7 @@ TW_RECOVERY_ADDITIONAL_RELINK_FILES := $(OUT)/system/lib64/libbinder.so $(OUT)/s
 TW_INCLUDE_NTFS_3G := true
 
 # OTA Assert
-TARGET_OTA_ASSERT_DEVICE := c103
+TARGET_OTA_ASSERT_DEVICE := C106
 
 
 
@@ -94,3 +94,4 @@ TW_INCLUDE_FUSE_EXFAT := true
 
 # NTFS Support
 TW_INCLUDE_FUSE_NTFS := true
+

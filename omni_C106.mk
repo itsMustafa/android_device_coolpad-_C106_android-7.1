@@ -24,8 +24,8 @@ PRODUCT_COPY_FILES += \
 	$(LOCAL_PATH)/Image.gz-dtb:kernel
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := c103
-PRODUCT_NAME := omni_c103 
+PRODUCT_DEVICE := C106
+PRODUCT_NAME := omni_C106 
 PRODUCT_BRAND := Coolpad 
 PRODUCT_MODEL := Coolpad Cool 1 Dual
 PRODUCT_MANUFACTURER := Coolpad
